@@ -466,6 +466,8 @@ Docker_ImageOptimization_<YourName>_<Date>.pdf
 
 Example: `Docker_ImageOptimization_DhimantBhuva.pdf`
 
+UPLOAD YOUR FILES IN THIS GOOGLE DRIVE FOLDER : https://drive.google.com/drive/folders/1vYGGIRPyzSmn2bHnKheXt4k0IbFcC194?usp=sharing
+
 ---
 
 **Good luck with your activity! 🐳**
